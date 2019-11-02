@@ -6,7 +6,7 @@ functions--
 2)To draw horizontal stars 
 3)To draw to vertical stars
 4)To display the final matrix
-5)To display the diagonal stars
+5)To draw the diagonal stars
 
 Iterative statements required--
 1)switch
