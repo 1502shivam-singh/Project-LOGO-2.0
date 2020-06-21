@@ -3,16 +3,16 @@ Project -- LOGO 2.0
 
 functions--
 
-1)To move the pointer to the required location
-2)To draw horizontal stars 
-3)To draw to vertical stars
-4)To display the final matrix
-5)To draw the diagonal stars
+1)To move the pointer to the required location<br>
+2)To draw horizontal stars <br>
+3)To draw to vertical stars<br>
+4)To display the final matrix<br>
+5)To draw the diagonal stars<br>
 
-Iterative statements required--
-1)switch
-2)while(in case iterations are not defined)
-3)if statement  
+Iterative and conditional statements used--<br>
+1)switch<br>
+2)while(used in case iterations are not defined)<br>
+3)if statement<br>  
 
 functions description--
 void move_pointer(int,int) -- accepts value of cell from user to move pointer to that cell in the 2d array.
