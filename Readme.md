@@ -1,7 +1,6 @@
 # Project-LOGO-2.0
-Project -- LOGO 2.0
 
-functions--
+functions involved--
 
 1)To move the pointer to the required location<br>
 2)To draw horizontal stars <br>
@@ -14,7 +13,7 @@ Iterative and conditional statements used--<br>
 2)while(used in case iterations are not defined)<br>
 3)if statement<br>  
 
-functions description--
+functions description--<br>
 void move_pointer(int,int) -- accepts value of cell from user to move pointer to that cell in the 2d array.
 (input args can be set as static int so variable entry stays even after function call stack is emptied) 
 
