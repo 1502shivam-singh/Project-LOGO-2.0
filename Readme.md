@@ -2,6 +2,7 @@
 Project -- LOGO 2.0
 
 functions--
+
 1)To move the pointer to the required location
 2)To draw horizontal stars 
 3)To draw to vertical stars
